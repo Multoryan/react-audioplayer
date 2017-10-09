@@ -1,0 +1,11 @@
+{
+  "delete": "./assets/delete.png",
+  "audio": "./assets/audio.png",
+  "play": "./assets/play.png",
+  "next": "./assets/next.png",
+  "prev": "./assets/prev.png",
+  "pause": "./assets/pause.png",
+  "repeat": "./assets/repeat.png",
+  "shuffle": "./assets/shuffle.png",
+  "volume_up": "./assets/volume_up.png"
+}
